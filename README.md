@@ -1,4 +1,6 @@
 # Reviewing-Unallocated-Space-Extracting-Data-with-Tools-Digital-Investigation-Processes
+## NAME: DWIJESH RAJ SINHA Y
+## REGISTER NO: 212225240038
 ## AIM:
 To review unallocated space in a disk image, extract data using forensic tools, and understand the digital investigation process.
 ## REQUIREMENTS
@@ -42,7 +44,13 @@ flowchart TD
 
 
 ## OUTPUT:
-Unallocated Space Analysis and Extracted Data Report
+
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/44030244-35a8-4a27-b204-0eaf4341a95d" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/765353d8-8091-4b06-adfb-79550ea00572" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/3c41b508-e1db-49c4-bc8c-1c2f1eeb7c7a" />
+<img width="939" height="632" alt="image" src="https://github.com/user-attachments/assets/d71d71e0-76b2-485f-af0a-e84567f45c45" />
+<img width="1306" height="675" alt="image" src="https://github.com/user-attachments/assets/7ebc7ab4-f5ef-4982-847b-5831f18c5239" />
+
 
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
